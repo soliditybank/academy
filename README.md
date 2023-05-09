@@ -1,2 +1,2 @@
-# academy
+# Academy
 Solidity Programming
