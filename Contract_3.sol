@@ -10,7 +10,7 @@ contract Contract_4 {
 	int256[] public arr;
 	
 	function addItem(int256 i) public {
-        arr.push(i);
+        	arr.push(i);
 	}
 
 	function removeItem() public {
