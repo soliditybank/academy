@@ -5,7 +5,7 @@ pragma solidity >=0.8.0 <0.9.0;
 /// @author admin.soliditybank.eth
 /// @title Arrays (Last In, First Out)
 
-contract Contract_4 {
+contract Contract_3_Array {
 
 	int256[] public arr;
 	
