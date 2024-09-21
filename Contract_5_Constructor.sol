@@ -5,7 +5,7 @@ pragma solidity >=0.8.0 <0.9.0;
 /// @author admin.soliditybank.eth
 /// @title Constructor
 
-contract Contract_5 {
+contract Contract_5_Constructor {
 
     string public name;
     string public symbol;
