@@ -5,7 +5,7 @@ pragma solidity >=0.8.0 <0.9.0;
 /// @author admin.soliditybank.eth
 /// @title Basic arithmetic
 
-contract Contract_2 {
+contract Contract_2_Arithmetic {
 
     function addition(int256 x, int256 y) public pure returns (int256) {
         return x+y;
