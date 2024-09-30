@@ -9,4 +9,7 @@ contract Global_Variables {
   function get_block_number() public view returns (uint) {
     return block.number;
   }
+  function get_basefee() public view returns (uint) {
+    return block.basefee;
+  }
 }
