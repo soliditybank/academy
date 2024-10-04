@@ -15,4 +15,7 @@ contract Global_Variables {
   function get_chainId() public view returns (uint) {
     return block.chainid;
   }
+  function get_prevrandao() public view returns (uint) {
+    return block.prevrandao;
+  }
 }
