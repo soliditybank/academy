@@ -5,7 +5,7 @@ pragma solidity >=0.8.0 <0.9.0;
 /// @author admin.soliditybank.eth
 /// @title Loop For, While
 
-contract Contract_4_Loop {
+contract Loop {
 
     uint public counter = 0;
 
