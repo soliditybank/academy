@@ -5,7 +5,7 @@ pragma solidity >=0.8.0 <0.9.0;
 /// @author admin.soliditybank.eth
 /// @title A simple storage example
 
-contract Contract_1_Storage {
+contract Storage {
     int256 private x;
 
     function getX() public view returns (int256) {
