@@ -8,6 +8,7 @@ pragma solidity >=0.8.0 <0.9.0;
 contract Array {
 
 	int256[] public arr;
+	uint256[] public arr2;
 	
 	function addItem(int256 i) public {
         	arr.push(i);
